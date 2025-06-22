@@ -1,0 +1,11 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Output
+/out/
+target/
+build/
+
+# Java class
+*.class
