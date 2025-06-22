@@ -1,0 +1,3 @@
+Check Check Check.
+
+This is a test file to test function runFile() in Lox.java
